@@ -3,7 +3,7 @@
 * Handling of null values in the dataset 
 * Treating the outliers either by removing or capling 
 * correlation of the data are checked using heatmap
-# And The Visualization like:
+# Type of Visualization Used:
 * Kde plot
 * Histograpm (Histplot)
 * Pairplot
