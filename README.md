@@ -8,5 +8,6 @@
 * Histograpm (Histplot)
 * Pairplot
 * scatterplot
-* lmplot and
+* lmplot 
+* Distplot and
 * jointplot, these are the plots are used to show the various insights of the data.
