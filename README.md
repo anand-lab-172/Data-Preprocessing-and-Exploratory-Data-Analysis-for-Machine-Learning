@@ -1,4 +1,4 @@
-# There are the following what i worked in Data Preprocessing and Exploratory Data Analysis:
+# These are the following work are done in Data Preprocessing and Exploratory Data Analysis:
 * Importing the data, then shape, datatype, description are viwed
 * Handling of null values in the dataset 
 * Treating the outliers either by removing or capling 
