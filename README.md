@@ -5,7 +5,7 @@
 * correlation of the data are checked using heatmap
 # Type of Visualization Used:
 * Kde plot
-* Histograpm (Histplot)
+* Histogram (Histplot)
 * Pairplot
 * scatterplot
 * lmplot 
